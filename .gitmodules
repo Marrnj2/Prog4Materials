@@ -1,0 +1,6 @@
+[submodule "prog-4-practicals-Marrnj2"]
+	path = prog-4-practicals-Marrnj2
+	url = https://github.com/otago-polytechnic-bit-courses/prog-4-practicals-Marrnj2.git
+[submodule "prog-4-course-materials"]
+	path = prog-4-course-materials
+	url = https://github.com/otago-polytechnic-bit-courses/prog-4-course-materials.git
